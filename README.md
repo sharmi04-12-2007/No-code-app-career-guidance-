@@ -1,1 +1,2 @@
 # No-code-app-career-guidance-
+I have created a app called career guidance and it is useful for all the students who are pursuing their degrees and the students who have completed 12th standard. In this app i have created seven screens and 6 buttons with text box. i have given 6 streams and if we click anyone of the stream it opens another screen that is courses screen.if we click any one of the course it shows the career after the course in the textbox. we can add more features like the whole information about the course and salary package of the career.
